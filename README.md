@@ -4,6 +4,10 @@ If you have not experienced the live site, the URL is:
 https://portfolio-freelance-46851.web.app
 
 In this repo, you will find the files for both the front end and backend of this simple REACT app.
+The Client side is deployed to firebase and the server side is deployed to AWS Elastic Beanstalk. 
+The server uses MongoDb for the database.
+
+Additionally, I have included the backend files for my pet adoption project in the same server so that I can use the same AWS instance and not incur more charges for another environment.
 
 Some of the libraries I'm using are react-tsparticles, react-simple-animate, react-icons, and react-vertical-timeline-component.
 
